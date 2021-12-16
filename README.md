@@ -1,2 +1,2 @@
-# excercise_code_plus
+# exercise_code_plus
 this is for C++
